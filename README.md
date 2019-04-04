@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://user-images.githubusercontent.com/45159366/55536762-6eb19080-566f-11e9-8f28-3ed0d1380a4a.png">
+  <img src="https://user-images.githubusercontent.com/45159366/55536929-df58ad00-566f-11e9-8bfe-03553b94fcd1.png">
   <br />
 UnityHub
 </h1>
