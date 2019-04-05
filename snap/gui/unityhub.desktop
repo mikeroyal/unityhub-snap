@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=UnityHub
+GenericName=Unity game engine
+Comment= A standalone app to manage your Unity Projects and installations
+Exec=unityhub -p
+Icon=${SNAP}/meta/gui/unityhub.png
+Terminal=false
+Type=Application
+Categories=Development;IDE;
