@@ -1,5 +1,5 @@
 name: unityhub
-version: '1.4.0'
+version: '1.6.0'
 summary: UnityHub -- a standalone app to manage your Unity Projects and installations.
 description: A standalone application that streamlines the way you find, download, and manage your Unity Projects and 
 installations. In addition, you can manually add versions of the Editor that you have already installed on your machine 
